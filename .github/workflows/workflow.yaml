@@ -8,6 +8,7 @@ on:
     paths:
      - '**.tf'
      - '**.tfvars'
+     - '**.py'
   pull_request:
 
 jobs:
